@@ -2,7 +2,7 @@
 
 **PENDAHULUAN**
 
-1.
+
   1. 1 **Latar Belakang Masalah**
 
 Kebutuhan dan pemanfaatan informasi teknologi kita sekarang sangat berkembang dengan pesat di kalangan masyarakat dan tak bisa di hindarkan, tak terkecuali dalam melakukan sebuah pekerjaan di suatu perusahaan. Penggunaan teknologi yang menjajikan sebuah kinerja yang dapat membantu masyarakat dalam beraktivitas tanpa harus membuang-buang waktu yang tidak efisien dan menginginkan segala hal dilakukan secara cepat. Hal ini menuntun untuk mencari suatu proses yang lebih efisien dengan membuat aplikasi yang sesuai dalam pekerjaannya.
@@ -13,17 +13,17 @@ Dengan adanya perkembangan ekonomi juga memicu kegiatan ekonomi di semua bidang,
 
 Oleh karena itu dalam pemanfaaatan sistem informasi berbasis komputer adanya ide untuk membangun sebuah aplikasi yang mampu memenuhi kebutuhan dan dapat mengolah permasalahan tersebut agar tidak terjadi kesalahan dalam pembuatan laporan dan tidak terjadi redudansi pada pengolahan datanya.        Berdasarkan atas gambaran tersebut maka kami memilih untuk mengembangkan aplikasi yang telah kira buat sebelumnya dengan judul Implementasi Android Pada Pengelolaan Data Transaksi Penyewaan VCD/DVD Yii2. Dengan adanya pengembangan aplikasi ini diharapkan dapat meningkatkan kecepatan dan kemudahan dalam melakukan proses pengolahan data serta memperkecil kemungkinan kesalahan dalam pemrosesan data anggota, film, dan pendapatan.
 
-1.
+
   1. 2 **Identifikasi Masalah**
 
 Identifikasi masalah pada proposal ini meliputi :
 
-1.
+
   1.
     1. Apa yang bisa dilakukan dengan menggunakan aplikasi pengelolaan data penyewaan vcd/dvd ini?
     2. Apa keuntungan melakukan peminjaman menggunakan aplikasi penyewaan vcd/dvd?
 
-1.
+
   1. 3 **Tujuan**
 
                 Berdasarkan latar belakang dan identifikasi masalah yang telah dipaparkan diatas maka tujuan yang ingin dicapai dalam implementasi android untuk pengelolaan data transaksi vcd/dvd yang berbasis yii2 adalah sebagai berikut :
